@@ -142,7 +142,7 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=transparent" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=naveenkumarans&show_icons=true&hide_title=true&theme=transparent" />
 </p>
 
 ---
@@ -150,7 +150,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=YOUR_USERNAME&theme=transparent" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=naveenkumarans&theme=transparent" />
 </p>
 
 ---
@@ -158,7 +158,7 @@
 ## 🧩 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naveenkumarans&layout=compact&theme=transparent" />
 </p>
 
 ---
@@ -166,5 +166,5 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumarans&theme=github" />
 </p>
