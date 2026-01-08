@@ -139,18 +139,32 @@
 <h2 align="center">Naveen's GitHub activity graph</h2>
 
 
-## 📈 GitHub Stats
+## 📊 GitHub Overview
 
-[![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenkumarans)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=transparent" />
+</p>
 
+---
 
-## 💻 Most Used Languages
+## 🔥 Contribution Streak
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarans&layout=compact)](https://github.com/naveenkumarans/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=YOUR_USERNAME&theme=transparent" />
+</p>
 
+---
 
-## 🚀 GitHub Trophies
+## 🧩 Most Used Languages
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naveenkumarans)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
+</p>
 
+---
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github" />
+</p>
