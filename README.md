@@ -1,5 +1,5 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4CC3FF,100:8B7CFF&height=200&section=header&text=Naveen%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer&descSize=20&descAlignY=58" alt="Naveen Kumar banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4CC3FF,100:8B7CFF&height=200&section=header&text=Naveen%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer&Software Engineer&descSize=20&descAlignY=58" alt="Naveen Kumar banner"/>
 
 <p align="center">
   <a href="https://naveenkumars.in">
