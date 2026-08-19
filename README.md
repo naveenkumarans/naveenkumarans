@@ -119,12 +119,6 @@ const naveen = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naveenkumarans&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub trophies"/>
-</p>
-
 ## 📊 GitHub Overview
 
 <p align="center">
@@ -155,10 +149,7 @@ const naveen = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naveenkumarans/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.leetcode.com/naveenkumar59835"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/@naveenkumaran101"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
   <a href="https://naveenkumars.in"><img src="https://img.shields.io/badge/Website-4CC3FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="https://fb.com/naveen.kumaran.35"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://instagram.com/freakin__jerry"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
