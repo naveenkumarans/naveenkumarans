@@ -53,18 +53,48 @@ const naveen = {
 
 ## 🧰 Tech Stack
 
-### 🤖 AI & Voice
+### 🤖 AI & Machine Learning
 <p>
+  <img src="https://img.shields.io/badge/Generative_AI-8B7CFF?style=for-the-badge" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/LLMs-8B7CFF?style=for-the-badge" alt="LLMs"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-8B7CFF?style=for-the-badge" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/Agentic_AI-8B7CFF?style=for-the-badge" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/RAG-8B7CFF?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LLM_Guardrails-8B7CFF?style=for-the-badge" alt="LLM Guardrails"/>
+  <img src="https://img.shields.io/badge/NLP-8B7CFF?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Transformers-8B7CFF?style=for-the-badge" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/Vector_Embeddings-8B7CFF?style=for-the-badge" alt="Vector Embeddings"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning-8B7CFF?style=for-the-badge" alt="Fine-Tuning"/>
+  <img src="https://img.shields.io/badge/Model_Training_%26_Evaluation-8B7CFF?style=for-the-badge" alt="Model Training and Evaluation"/>
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-8B7CFF?style=for-the-badge" alt="Reinforcement Learning"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### 🎙️ Voice & Conversational AI
+<p>
+  <img src="https://img.shields.io/badge/Voice_AI-4CC3FF?style=for-the-badge" alt="Voice AI"/>
   <img src="https://img.shields.io/badge/STT%2FASR-4CC3FF?style=for-the-badge" alt="STT/ASR"/>
   <img src="https://img.shields.io/badge/TTS-4CC3FF?style=for-the-badge" alt="TTS"/>
   <img src="https://img.shields.io/badge/NLU-4CC3FF?style=for-the-badge" alt="NLU"/>
+  <img src="https://img.shields.io/badge/Dialog_Management-4CC3FF?style=for-the-badge" alt="Dialog Management"/>
+  <img src="https://img.shields.io/badge/Intent_Recognition-4CC3FF?style=for-the-badge" alt="Intent Recognition"/>
+  <img src="https://img.shields.io/badge/Entity_Extraction-4CC3FF?style=for-the-badge" alt="Entity Extraction"/>
+  <img src="https://img.shields.io/badge/IVR-4CC3FF?style=for-the-badge" alt="IVR"/>
   <img src="https://img.shields.io/badge/SIP_Telephony-4CC3FF?style=for-the-badge" alt="SIP"/>
   <img src="https://img.shields.io/badge/DTMF-4CC3FF?style=for-the-badge" alt="DTMF"/>
   <img src="https://img.shields.io/badge/Epic_FHIR-4CC3FF?style=for-the-badge" alt="Epic FHIR"/>
+</p>
+
+### 🧠 Software Engineering
+<p>
+  <img src="https://img.shields.io/badge/System_Design-2E4E79?style=for-the-badge" alt="System Design"/>
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2E4E79?style=for-the-badge" alt="DSA"/>
+  <img src="https://img.shields.io/badge/OOP-2E4E79?style=for-the-badge" alt="OOP"/>
+  <img src="https://img.shields.io/badge/Design_Patterns-2E4E79?style=for-the-badge" alt="Design Patterns"/>
+  <img src="https://img.shields.io/badge/Clean_Code-2E4E79?style=for-the-badge" alt="Clean Code"/>
+  <img src="https://img.shields.io/badge/Code_Review-2E4E79?style=for-the-badge" alt="Code Review"/>
+  <img src="https://img.shields.io/badge/Debugging_%26_RCA-2E4E79?style=for-the-badge" alt="Debugging and RCA"/>
+  <img src="https://img.shields.io/badge/Agile%2FScrum-2E4E79?style=for-the-badge" alt="Agile Scrum"/>
 </p>
 
 ### ⚙️ Backend
@@ -78,6 +108,9 @@ const naveen = {
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge" alt="Mockito"/>
 </p>
 
 ### 🎨 Frontend & UI/UX
@@ -115,6 +148,8 @@ const naveen = {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
 ---
