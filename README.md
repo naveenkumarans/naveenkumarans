@@ -1,17 +1,17 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,20&text=Naveen%20Kumar&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Voice%20%26%20Conversational%20AI&descSize=18&descAlignY=58&animation=fadeIn" alt="Naveen Kumar banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4CC3FF,100:8B7CFF&height=200&section=header&text=Naveen%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer&descSize=20&descAlignY=58" alt="Naveen Kumar banner"/>
 
 <p align="center">
   <a href="https://naveenkumars.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=2800&pause=800&color=4CC3FF&center=true&vCenter=true&width=640&lines=AI+Engineer+%7C+Voice+%26+Conversational+AI;I+build+voice+agents+that+answer+real+phone+calls;LLMs+%C2%B7+Prompt+Engineering+%C2%B7+STT%2FASR+%C2%B7+Agentic+AI;Java+%C2%B7+Spring+Boot+%C2%B7+TypeScript+%C2%B7+Full+Stack;UI%2FUX+%C2%B7+Web+%C2%B7+DevOps" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=2800&pause=800&color=4CC3FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Generative+AI+%7C+LLMs+%7C+Agentic+AI;Voice+AI+%7C+Conversational+AI+%7C+STT%2FASR+%7C+TTS;Machine+Learning+%7C+NLP+%7C+Transformers+%7C+RAG;Prompt+Engineering+%7C+LLM+Guardrails+%7C+Fine-Tuning;Java+%7C+Spring+Boot+%7C+TypeScript+%7C+Full+Stack+%7C+DevOps" alt="Typing intro"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://naveenkumars.in"><img src="https://img.shields.io/badge/🌐_Portfolio-naveenkumars.in-4CC3FF?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://naveenkumars.in"><img src="https://img.shields.io/badge/Portfolio-naveenkumars.in-4CC3FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/naveenkumarans/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:naveenkumar59835@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=naveenkumarans&label=Profile%20views&color=4CC3FF&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=naveenkumarans&label=Profile+views&color=4cc3ff&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
